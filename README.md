@@ -1,5 +1,7 @@
 <h1>Java Weather Application</h1>
-<h2 align="center">Description</h2>
+<h2>Description</h2>
 
-<h5>Graphical interface:</h5> JavaFX
-<h5>Weather information:</h5> OpenWeatherMap API
+<div>
+  <h5>Graphical interface: JavaFX</h5>
+  <h5>Weather information: OpenWeatherMap API</h5> 
+</div>
